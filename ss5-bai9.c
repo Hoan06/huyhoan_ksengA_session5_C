@@ -7,8 +7,8 @@ int main(){
 	
 	printf("moi ban nhap so thu nhat : ");
 	scanf("%f", &a);
-	printf("moi ban nhap so thu nhat : ");
-	scanf("%f", &a);
+	printf("moi ban nhap so thu hai : ");
+	scanf("%f", &b);
 	
 	do {
 		printf("\n moi ban chon cac chuc nang sau :\n 1.nhapbaso\n 2.tong3so\n 3.tbc3so\n 4.snn\n 5.sln\n 6.thoat\n  ");
@@ -19,7 +19,7 @@ int main(){
 	    		scanf("%f", &a);
 	    		printf("moi ban nhap so thu hai : ");
 	    		scanf("%f", &b);
-	    		printf("moi ban nhap so thu nhat : ");
+	    		printf("moi ban nhap so thu ba : ");
 	            scanf("%f", &c);
 	    		break ;
 	    	case 2 :
