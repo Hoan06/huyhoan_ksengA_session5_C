@@ -14,7 +14,7 @@ int main(){
 		b=temp;
 	}
 	ucln=a;
-	bcnn= (a*b)/ucln;
+	bcnn= (a1*b1)/ucln;
 	printf ("bcnn la %d", bcnn);
 	
 	return 0;
